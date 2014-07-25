@@ -1,0 +1,11 @@
+{
+  "name": "TypeScriptSample",
+  "version": "0.0.1",
+  "devDependencies": {
+    "grunt-cli": "~0.1.13",
+    "grunt": "~0.4.5",
+    "typescript": "~1.0.1",
+    "grunt-typescript": "~0.3.6",
+    "grunt-contrib-watch": "~0.6.1"
+  }
+}
