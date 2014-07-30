@@ -1,6 +1,6 @@
 module.exports = function(grunt) {
 	
-	grunt.loadNpmTasks('grunt-typescript');
+    grunt.loadNpmTasks('grunt-typescript');
     grunt.loadNpmTasks('grunt-contrib-watch');
 	
 	grunt.initConfig({
